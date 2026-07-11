@@ -1,0 +1,3172 @@
+{
+  "Python": {
+    "Easy": {
+      "marking": {
+        "correct": "1",
+        "wrong": "0",
+      },
+      "questions": {
+        "1": {
+          "question": "Which keyword is used to define a function in Python?",
+          "options": {
+            "1": "func",
+            "2": "define",
+            "3": "def",
+            "4": "function"
+          },
+          "answer": "3"
+        },
+        "2": {
+          "question": "What is the correct file extension for Python files?",
+          "options": {
+            "1": ".py",
+            "2": ".pyt",
+            "3": ".pt",
+            "4": ".python"
+          },
+          "answer": "1"
+        },
+        "3": {
+          "question": "How do you insert comments in Python code?",
+          "options": {
+            "1": "// This is a comment",
+            "2": "# This is a comment",
+            "3": "/* This is a comment */",
+            "4": "<!-- This is a comment -->"
+          },
+          "answer": "2"
+        },
+        "4": {
+          "question": "Which of the following is NOT a valid variable name in Python?",
+          "options": {
+            "1": "my_val",
+            "2": "_myval",
+            "3": "2myval",
+            "4": "myval2"
+          },
+          "answer": "3"
+        },
+        "5": {
+          "question": "Which function is used to output text to the screen in Python?",
+          "options": {
+            "1": "echo()",
+            "2": "print()",
+            "3": "display()",
+            "4": "printf()"
+          },
+          "answer": "2"
+        },
+        "6": {
+          "question": "What is the output of print(type([]) ) in Python?",
+          "options": {
+            "1": "<class 'tuple'>",
+            "2": "<class 'set'>",
+            "3": "<class 'dict'>",
+            "4": "<class 'list'>"
+          },
+          "answer": "4"
+        },
+        "7": {
+          "question": "Which data type is used to store True or False values?",
+          "options": {
+            "1": "int",
+            "2": "str",
+            "3": "bool",
+            "4": "float"
+          },
+          "answer": "3"
+        },
+        "8": {
+          "question": "How do you create a variable with the numeric value 5?",
+          "options": {
+            "1": "x = int(5)",
+            "2": "x = 5",
+            "3": "Both 1 and 2 are correct",
+            "4": "None of the above"
+          },
+          "answer": "3"
+        },
+        "9": {
+          "question": "Which operator is used for exponentiation (power) in Python?",
+          "options": {
+            "1": "^",
+            "2": "**",
+            "3": "*",
+            "4": "pow"
+          },
+          "answer": "2"
+        },
+        "10": {
+          "question": "What is the correct way to write an 'if' statement in Python?",
+          "options": {
+            "1": "if x > y then:",
+            "2": "if x > y:",
+            "3": "if (x > y)",
+            "4": "if x > y;"
+          },
+          "answer": "2"
+        },
+        "11": {
+          "question": "Which function is used to get the length of a string or list?",
+          "options": {
+            "1": "length()",
+            "2": "len()",
+            "3": "count()",
+            "4": "size()"
+          },
+          "answer": "2"
+        },
+        "12": {
+          "question": "How do you start a 'while' loop in Python?",
+          "options": {
+            "1": "while x > y:",
+            "2": "while x > y then:",
+            "3": "while (x > y)",
+            "4": "while x > y;"
+          },
+          "answer": "1"
+        },
+        "13": {
+          "question": "Which keyword is used to skip the rest of the current loop iteration?",
+          "options": {
+            "1": "break",
+            "2": "pass",
+            "3": "skip",
+            "4": "continue"
+          },
+          "answer": "4"
+        },
+        "14": {
+          "question": "Which keyword is used to exit a loop prematurely?",
+          "options": {
+            "1": "exit",
+            "2": "break",
+            "3": "stop",
+            "4": "return"
+          },
+          "answer": "2"
+        },
+        "15": {
+          "question": "What is the output of print(2 * 3)?",
+          "options": {
+            "1": "5",
+            "2": "6",
+            "3": "23",
+            "4": "8"
+          },
+          "answer": "2"
+        },
+        "16": {
+          "question": "How do you write a multi-line comment or docstring in Python?",
+          "options": {
+            "1": "''' Comment '''",
+            "2": "// Comment //",
+            "3": "/* Comment */",
+            "4": "# Comment #"
+          },
+          "answer": "1"
+        },
+        "17": {
+          "question": "Which of these collections defines a TUPLE?",
+          "options": {
+            "1": "[\"apple\", \"banana\"]",
+            "2": "{\"apple\", \"banana\"}",
+            "3": "(\"apple\", \"banana\")",
+            "4": "{\"name\": \"apple\"}"
+          },
+          "answer": "3"
+        },
+        "18": {
+          "question": "Which method is used to convert a string to lowercase?",
+          "options": {
+            "1": "lower()",
+            "2": "lowercase()",
+            "3": "toLower()",
+            "4": "down()"
+          },
+          "answer": "1"
+        },
+        "19": {
+          "question": "What is the output of print(10 // 3)?",
+          "options": {
+            "1": "3.333",
+            "2": "3",
+            "3": "1",
+            "4": "4"
+          },
+          "answer": "2"
+        },
+        "20": {
+          "question": "What is the output of print(10 % 3)?",
+          "options": {
+            "1": "1",
+            "2": "3",
+            "3": "0",
+            "4": "3.333"
+          },
+          "answer": "1"
+        },
+        "21": {
+          "question": "How do you add a single item to the end of a list?",
+          "options": {
+            "1": "add()",
+            "2": "append()",
+            "3": "insert()",
+            "4": "extend()"
+          },
+          "answer": "2"
+        },
+        "22": {
+          "question": "Which function converts an input string into an integer?",
+          "options": {
+            "1": "str()",
+            "2": "float()",
+            "3": "int()",
+            "4": "to_int()"
+          },
+          "answer": "3"
+        },
+        "23": {
+          "question": "What is the output of print('Hello' + 'World')?",
+          "options": {
+            "1": "HelloWorld",
+            "2": "Hello World",
+            "3": "Hello+World",
+            "4": "Error"
+          },
+          "answer": "1"
+        },
+        "24": {
+          "question": "Which statement is used if no code needs to be executed in an if-block?",
+          "options": {
+            "1": "void",
+            "2": "null",
+            "3": "pass",
+            "4": "skip"
+          },
+          "answer": "3"
+        },
+        "25": {
+          "question": "How do you receive user input from the console?",
+          "options": {
+            "1": "read()",
+            "2": "scanf()",
+            "3": "input()",
+            "4": "get()"
+          },
+          "answer": "3"
+        },
+        "26": {
+          "question": "Which collection does NOT allow duplicate members?",
+          "options": {
+            "1": "list",
+            "2": "tuple",
+            "3": "set",
+            "4": "array"
+          },
+          "answer": "3"
+        },
+        "27": {
+          "question": "What is the index of the first element in a Python list?",
+          "options": {
+            "1": "1",
+            "2": "0",
+            "3": "-1",
+            "4": "First"
+          },
+          "answer": "2"
+        },
+        "28": {
+          "question": "How do you get the last element of a list named 'mylist'?",
+          "options": {
+            "1": "mylist[0]",
+            "2": "mylist[last]",
+            "3": "mylist[-1]",
+            "4": "mylist[len(mylist)]"
+          },
+          "answer": "3"
+        },
+        "29": {
+          "question": "What does the range(5) function generate?",
+          "options": {
+            "1": "Numbers from 1 to 5",
+            "2": "Numbers from 0 to 4",
+            "3": "Numbers from 0 to 5",
+            "4": "Numbers from 1 to 4"
+          },
+          "answer": "2"
+        },
+        "30": {
+          "question": "Which keyword is used to import a module in Python?",
+          "options": {
+            "1": "include",
+            "2": "require",
+            "3": "import",
+            "4": "using"
+          },
+          "answer": "3"
+        },
+        "31": {
+          "question": "What is the output of print(type(3.14))?",
+          "options": {
+            "1": "<class 'int'>",
+            "2": "<class 'float'>",
+            "3": "<class 'double'>",
+            "4": "<class 'str'>"
+          },
+          "answer": "2"
+        },
+        "32": {
+          "question": "Which keyword is used to return a value from a function?",
+          "options": {
+            "1": "give",
+            "2": "send",
+            "3": "exit",
+            "4": "return"
+          },
+          "answer": "4"
+        },
+        "33": {
+          "question": "How do you create a dictionary in Python?",
+          "options": {
+            "1": "x = []",
+            "2": "x = ()",
+            "3": "x = {}",
+            "4": "x = set()"
+          },
+          "answer": "3"
+        },
+        "34": {
+          "question": "Which of these is the correct logical 'AND' operator in Python?",
+          "options": {
+            "1": "&&",
+            "2": "and",
+            "3": "ampersand",
+            "4": "&"
+          },
+          "answer": "2"
+        },
+        "35": {
+          "question": "Which of these is the correct logical 'OR' operator in Python?",
+          "options": {
+            "1": "||",
+            "2": "or",
+            "3": "v",
+            "4": "|"
+          },
+          "answer": "2"
+        },
+        "36": {
+          "question": "Which of these is the correct logical 'NOT' operator in Python?",
+          "options": {
+            "1": "!",
+            "2": "not",
+            "3": "~",
+            "4": "None"
+          },
+          "answer": "2"
+        },
+        "37": {
+          "question": "What is the output of print('a' * 3)?",
+          "options": {
+            "1": "aaa",
+            "2": "a3",
+            "3": "Error",
+            "4": "a a a"
+          },
+          "answer": "1"
+        },
+        "38": {
+          "question": "Can you change the values of elements inside a Python tuple after creation?",
+          "options": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Only if it contains numbers",
+            "4": "Only if it contains strings"
+          },
+          "answer": "2"
+        },
+        "39": {
+          "question": "Which built-in function returns a list of all keys in a dictionary 'd'?",
+          "options": {
+            "1": "d.all_keys()",
+            "2": "d.get_keys()",
+            "3": "d.keys()",
+            "4": "keys(d)"
+          },
+          "answer": "3"
+        },
+        "40": {
+          "options": {
+            "1": "remove()",
+            "2": "delete()",
+            "3": "clear()",
+            "4": "discard()"
+          },
+          "question": "Which method removes all elements from a list?",
+          "answer": "3"
+        },
+        "41": {
+          "question": "What is the output of bool(0) in Python?",
+          "options": {
+            "1": "True",
+            "2": "False",
+            "3": "None",
+            "4": "Error"
+          },
+          "answer": "2"
+        },
+        "42": {
+          "question": "What is the output of bool('Hello') in Python?",
+          "options": {
+            "1": "True",
+            "2": "False",
+            "3": "None",
+            "4": "Error"
+          },
+          "answer": "1"
+        },
+        "43": {
+          "question": "Which block is used to catch and handle exceptions in Python?",
+          "options": {
+            "1": "catch",
+            "2": "except",
+            "3": "try",
+            "4": "error"
+          },
+          "answer": "2"
+        },
+        "44": {
+          "question": "Which block is always executed inside a try-except structure, regardless of an error?",
+          "options": {
+            "1": "finally",
+            "2": "else",
+            "3": "always",
+            "4": "finish"
+          },
+          "answer": "1"
+        },
+        "45": {
+          "question": "What does the 'elif' keyword stand for in Python?",
+          "options": {
+            "1": "else if",
+            "2": "either if",
+            "3": "elastic if",
+            "4": "element if"
+          },
+          "answer": "1"
+        },
+        "46": {
+          "question": "Which function allows you to round a floating-point number to a specific number of decimals?",
+          "options": {
+            "1": "ceil()",
+            "2": "floor()",
+            "3": "round()",
+            "4": "trunc()"
+          },
+          "answer": "3"
+        },
+        "47": {
+          "question": "How do you find the maximum value among a set of numbers in Python?",
+          "options": {
+            "1": "maximum()",
+            "2": "max()",
+            "3": "highest()",
+            "4": "top()"
+          },
+          "answer": "2"
+        },
+        "48": {
+          "question": "How do you find the minimum value among a set of numbers in Python?",
+          "options": {
+            "1": "minimum()",
+            "2": "min()",
+            "3": "lowest()",
+            "4": "bottom()"
+          },
+          "answer": "2"
+        },
+        "49": {
+          "question": "Which operator is used to check if two values are equal?",
+          "options": {
+            "1": "=",
+            "2": "==",
+            "3": "is",
+            "4": "equals"
+          },
+          "answer": "2"
+        },
+        "50": {
+          "question": "Which operator is used to check if two values are NOT equal?",
+          "options": {
+            "1": "!=",
+            "2": "<>",
+            "3": "not =",
+            "4": "~="
+          },
+          "answer": "1"
+        }
+      }
+    },
+    "Medium": {
+      "marking": {
+        "correct": "2",
+        "wrong": "0.5"
+      },
+      "questions": {
+        "1": {
+          "question": "Which keyword is used to handle exceptions in Python?",
+          "options": {
+            "1": "catch",
+            "2": "except",
+            "3": "error",
+            "4": "finally"
+          },
+          "answer": "2"
+        },
+        "2": {
+          "question": "Which method adds an item to the end of a list?",
+          "options": {
+            "1": "insert()",
+            "2": "append()",
+            "3": "extend()",
+            "4": "add()"
+          },
+          "answer": "2"
+        },
+        "3": {
+          "question": "What is the output of print(list(map(lambda x: x**2, [1, 2, 3])))?",
+          "options": {
+            "1": "[1, 4, 9]",
+            "2": "(1, 4, 9)",
+            "3": "[1, 2, 3]",
+            "4": "Error"
+          },
+          "answer": "1"
+        },
+        "4": {
+          "question": "Which of the following creates a shallow copy of a list 'lst'?",
+          "options": {
+            "1": "lst.copy()",
+            "2": "lst[:]",
+            "3": "list(lst)",
+            "4": "All of the above"
+          },
+          "answer": "4"
+        },
+        "5": {
+          "question": "What is the correct syntax for list comprehension to filter even numbers from 'lst'?",
+          "options": {
+            "1": "[x for x in lst if x % 2 == 0]",
+            "2": "[x if x % 2 == 0 for x in lst]",
+            "3": "[x for x in lst else x % 2 == 0]",
+            "4": "None of the above"
+          },
+          "answer": "1"
+        },
+        "6": {
+          "question": "Which built-in module provides powerful tools for handling iterators?",
+          "options": {
+            "1": "itertools",
+            "2": "functools",
+            "3": "collections",
+            "4": "operator"
+          },
+          "answer": "1"
+        },
+        "7": {
+          "question": "What is the purpose of the 'with' statement in Python?",
+          "options": {
+            "1": "To create a loop",
+            "2": "To simplify exception handling by encapsulating common cleanup tasks (Context Managers)",
+            "3": "To declare global variables",
+            "4": "To import multiple packages"
+          },
+          "answer": "2"
+        },
+        "8": {
+          "question": "What does the '__init__' method do in a Python class?",
+          "options": {
+            "1": "It deletes an object",
+            "2": "It initializes the newly created object's attributes",
+            "3": "It creates a static method",
+            "4": "It imports the class structure"
+          },
+          "answer": "2"
+        },
+        "9": {
+          "question": "How do you check if a class 'Dog' is a subclass of 'Animal'?",
+          "options": {
+            "1": "Dog.is_subclass(Animal)",
+            "2": "isinstance(Dog, Animal)",
+            "3": "issubclass(Dog, Animal)",
+            "4": "Animal.has_subclass(Dog)"
+          },
+          "answer": "3"
+        },
+        "10": {
+          "question": "What is the output of print('hello'.find('z'))?",
+          "options": {
+            "1": "Error",
+            "2": "False",
+            "3": "-1",
+            "4": "None"
+          },
+          "answer": "3"
+        },
+        "11": {
+          "question": "Which method is used to remove and return an element from a specific index in a list?",
+          "options": {
+            "1": "remove()",
+            "2": "pop()",
+            "3": "discard()",
+            "4": "delete()"
+          },
+          "answer": "2"
+        },
+        "12": {
+          "question": "What does the 'self' parameter represent inside a class method?",
+          "options": {
+            "1": "The class itself",
+            "2": "The specific instance of the class being created or modified",
+            "3": "A global variable",
+            "4": "A built-in superuser command"
+          },
+          "answer": "2"
+        },
+        "13": {
+          "question": "What is the output of matching a pattern using 're.match()' if no match is found?",
+          "options": {
+            "1": "False",
+            "2": "-1",
+            "3": "None",
+            "4": "An empty string"
+          },
+          "answer": "3"
+        },
+        "14": {
+          "question": "Which object from the 'collections' module returns a default value for a non-existent key?",
+          "options": {
+            "1": "OrderedDict",
+            "2": "Counter",
+            "3": "defaultdict",
+            "4": "namedtuple"
+          },
+          "answer": "3"
+        },
+        "15": {
+          "question": "How do you pass a variable number of keyword arguments to a function?",
+          "options": {
+            "1": "*args",
+            "2": "**kwargs",
+            "3": "*kwargs",
+            "4": "args[]"
+          },
+          "answer": "2"
+        },
+        "16": {
+          "question": "What is the key characteristic of a Generator function in Python?",
+          "options": {
+            "1": "It uses 'return' to give a full list",
+            "2": "It uses the 'yield' keyword to produce data lazily one item at a time",
+            "3": "It runs multi-threaded computations",
+            "4": "It executes automatically at startup"
+          },
+          "answer": "2"
+        },
+        "17": {
+          "question": "Which method is used to combine two dictionaries in Python 3.9+ using an operator?",
+          "options": {
+            "1": "d1 + d2",
+            "2": "d1 | d2",
+            "3": "d1 & d2",
+            "4": "d1 && d2"
+          },
+          "answer": "2"
+        },
+        "18": {
+          "question": "What is the output of print(any([False, 0, '', []]))?",
+          "options": {
+            "1": "True",
+            "2": "False",
+            "3": "None",
+            "4": "Error"
+          },
+          "answer": "2"
+        },
+        "19": {
+          "question": "What is the output of print(all([True, 1, 'yes', [5]]))?",
+          "options": {
+            "1": "True",
+            "2": "False",
+            "3": "None",
+            "4": "Error"
+          },
+          "answer": "1"
+        },
+        "20": {
+          "question": "What does the function 'zip([1, 2], ['a', 'b'])' produce when cast to a list?",
+          "options": {
+            "1": "[[1, 'a'], [2, 'b']]",
+            "2": "[(1, 'a'), (2, 'b')]",
+            "3": "[(1, 2), ('a', 'b')]",
+            "4": "{1: 'a', 2: 'b'}"
+          },
+          "answer": "2"
+        },
+        "21": {
+          "question": "Which mode should you use in open() to open a file for writing in binary format?",
+          "options": {
+            "1": "'w'",
+            "2": "'wb'",
+            "3": "'r+'",
+            "4": "'rb'"
+          },
+          "answer": "2"
+        },
+        "22": {
+          "question": "How can you catch multiple specific exceptions in a single except block?",
+          "options": {
+            "1": "except ValueError, TypeError:",
+            "2": "except (ValueError, TypeError):",
+            "3": "except ValueError & TypeError:",
+            "4": "except [ValueError, TypeError]:"
+          },
+          "answer": "2"
+        },
+        "23": {
+          "question": "What is the function of the 'enumerate()' function in loops?",
+          "options": {
+            "1": "It counts the items inside a list",
+            "2": "It tracks and returns both the current index and the item during iteration",
+            "3": "It converts a list into a dictionary",
+            "4": "It sorts the collection automatically"
+          },
+          "answer": "2"
+        },
+        "24": {
+          "question": "What error is raised when trying to access a local variable before it has been assigned a value?",
+          "options": {
+            "1": "NameError",
+            "2": "UnboundLocalError",
+            "3": "AttributeError",
+            "4": "ValueError"
+          },
+          "answer": "2"
+        },
+        "25": {
+          "question": "Which function from the 'functools' module is used to freeze some arguments of a function?",
+          "options": {
+            "1": "reduce()",
+            "2": "lru_cache()",
+            "3": "partial()",
+            "4": "wraps()"
+          },
+          "answer": "3"
+        },
+        "26": {
+          "question": "What type of inheritance pattern occurs when a child class inherits from multiple parent classes?",
+          "options": {
+            "1": "Single Inheritance",
+            "2": "Multilevel Inheritance",
+            "3": "Multiple Inheritance",
+            "4": "Hierarchical Inheritance"
+          },
+          "answer": "3"
+        },
+        "27": {
+          "question": "What is the output of print('Python'[::2])?",
+          "options": {
+            "1": "Pto",
+            "2": "yhn",
+            "3": "Pyth",
+            "4": "Ptohn"
+          },
+          "answer": "1"
+        },
+        "28": {
+          "question": "Which of these is used to define a class method that can modify class-state rather than instance-state?",
+          "options": {
+            "1": "@staticmethod",
+            "2": "@classmethod",
+            "3": "@property",
+            "4": "@abstractmethod"
+          },
+          "answer": "2"
+        },
+        "29": {
+          "question": "What is the output of print(set([1, 2, 2, 3]) == {1, 2, 3})?",
+          "options": {
+            "1": "True",
+            "2": "False",
+            "3": "Error",
+            "4": "None"
+          },
+          "answer": "1"
+        },
+        "30": {
+          "question": "Which configuration file format does Python's standard library 'configparser' read?",
+          "options": {
+            "1": "JSON",
+            "2": "YAML",
+            "3": "INI",
+            "4": "XML"
+          },
+          "answer": "3"
+        },
+        "31": {
+          "question": "What does the 'dir()' function do when given an object parameter?",
+          "options": {
+            "1": "Changes the working directory",
+            "2": "Deletes the object",
+            "3": "Returns a list of all valid attributes and methods of that object",
+            "4": "Prints the object memory address"
+          },
+          "answer": "3"
+        },
+        "32": {
+          "question": "What is the correct way to add an element to a set 's'?",
+          "options": {
+            "1": "s.append(value)",
+            "2": "s.add(value)",
+            "3": "s.insert(value)",
+            "4": "s.push(value)"
+          },
+          "answer": "2"
+        },
+        "33": {
+          "question": "What is the output of print(type(x for x in range(5)))?",
+          "options": {
+            "1": "<class 'list'>",
+            "2": "<class 'generator'>",
+            "3": "<class 'tuple'>",
+            "4": "<class 'filter'>"
+          },
+          "answer": "2"
+        },
+        "34": {
+          "question": "Which module helps you measure the execution time of small snippets of Python code?",
+          "options": {
+            "1": "datetime",
+            "2": "time",
+            "3": "timeit",
+            "4": "profile"
+          },
+          "answer": "3"
+        },
+        "35": {
+          "question": "What exception is raised when you divide a number by zero?",
+          "options": {
+            "1": "ArithmeticError",
+            "2": "DivisionError",
+            "3": "ZeroDivisionError",
+            "4": "MathError"
+          },
+          "answer": "3"
+        },
+        "36": {
+          "question": "How do you forcefully raise an exception yourself in a Python script?",
+          "options": {
+            "1": "throw Exception",
+            "2": "raise Exception",
+            "3": "trigger Exception",
+            "4": "error Exception"
+          },
+          "answer": "2"
+        },
+        "37": {
+          "question": "What is the output of print(isinstance(True, int))?",
+          "options": {
+            "1": "True",
+            "2": "False",
+            "3": "Error",
+            "4": "None"
+          },
+          "answer": "1"
+        },
+        "38": {
+          "question": "Which string method joins elements of an iterable into one unified string?",
+          "options": {
+            "1": "split()",
+            "2": "join()",
+            "3": "concat()",
+            "4": "merge()"
+          },
+          "answer": "2"
+        },
+        "39": {
+          "question": "Which function allows you to get the current working directory path in the 'os' module?",
+          "options": {
+            "1": "os.getpwd()",
+            "2": "os.chdir()",
+            "3": "os.getcwd()",
+            "4": "os.path()"
+          },
+          "answer": "3"
+        },
+        "40": {
+          "question": "What is the primary feature of a frozen set ('frozenset')?",
+          "options": {
+            "1": "It can only hold numbers",
+            "2": "It is completely immutable",
+            "3": "It preserves insertion order",
+            "4": "It automatically deletes duplicates every second"
+          },
+          "answer": "2"
+        },
+        "41": {
+          "question": "What is the output of print(bool([]))?",
+          "options": {
+            "1": "True",
+            "2": "False",
+            "3": "None",
+            "4": "Error"
+          },
+          "answer": "2"
+        },
+        "42": {
+          "question": "Which function filters elements from an iterable based on a function evaluating to True?",
+          "options": {
+            "1": "map()",
+            "2": "filter()",
+            "3": "reduce()",
+            "4": "select()"
+          },
+          "answer": "2"
+        },
+        "43": {
+          "question": "How do you remove an element from a dictionary using its key and safely get its value back?",
+          "options": {
+            "1": "del d[key]",
+            "2": "d.remove(key)",
+            "3": "d.pop(key)",
+            "4": "d.discard(key)"
+          },
+          "answer": "3"
+        },
+        "44": {
+          "question": "What error is raised when a dictionary key is looked up but not found?",
+          "options": {
+            "1": "IndexError",
+            "2": "KeyError",
+            "3": "ValueError",
+            "4": "LookupError"
+          },
+          "answer": "2"
+        },
+        "45": {
+          "question": "What error is raised when an index of a sequence is out of range?",
+          "options": {
+            "1": "KeyError",
+            "2": "IndexError",
+            "3": "ValueError",
+            "4": "RangeError"
+          },
+          "answer": "2"
+        },
+        "46": {
+          "question": "Which operator is used to check if an item exists inside a collection?",
+          "options": {
+            "1": "exists",
+            "2": "in",
+            "3": "has",
+            "4": "contains"
+          },
+          "answer": "2"
+        },
+        "47": {
+          "question": "What does the keyword 'global' do inside a function?",
+          "options": {
+            "1": "Makes the function accessible worldwide",
+            "2": "Declares that a variable inside the function belongs to the global scope",
+            "3": "Imports all global packages",
+            "4": "Resets the script variables"
+          },
+          "answer": "2"
+        },
+        "48": {
+          "question": "What does the keyword 'nonlocal' do inside nested functions?",
+          "options": {
+            "1": "Declares a variable belongs to the global scope",
+            "2": "Declares a variable belongs to an outer enclosing (but not global) scope",
+            "3": "Prevents any variables from updating",
+            "4": "None of the above"
+          },
+          "answer": "2"
+        },
+        "49": {
+          "question": "What is the output of print('abc'.upper().isupper())?",
+          "options": {
+            "1": "True",
+            "2": "False",
+            "3": "None",
+            "4": "Error"
+          },
+          "answer": "1"
+        },
+        "50": {
+          "question": "Which module in Python contains standard mathematical functions like sqrt(), sin(), and pi?",
+          "options": {
+            "1": "math",
+            "2": "numpy",
+            "3": "scipy",
+            "4": "numbers"
+          },
+          "answer": "1"
+        }
+      }
+    },
+    "Hard": {
+      "marking": {
+        "correct": "3",
+        "wrong": "1"
+      },
+      "questions": {
+        "1": {
+          "question": "Which module is commonly used to work with JSON files?",
+          "options": {
+            "1": "pickle",
+            "2": "csv",
+            "3": "json",
+            "4": "os"
+          },
+          "answer": "3"
+        },
+        "2": {
+          "question": "What is the primary difference between a shallow copy and a deep copy via the 'copy' module?",
+          "options": {
+            "1": "Shallow copy modifies the original objects automatically.",
+            "2": "Deep copy constructs a new compound object and then recursively inserts copies of objects found in the original.",
+            "3": "Shallow copy works faster and converts all lists to tuples.",
+            "4": "There is no functional difference; they are aliases."
+          },
+          "answer": "2"
+        },
+        "3": {
+          "question": "What is the output of print(2 ** 3 ** 2) in Python?",
+          "options": {
+            "1": "64",
+            "2": "512",
+            "3": "4096",
+            "4": "256"
+          },
+          "answer": "2"
+        },
+        "4": {
+          "question": "What is the purpose of '__slots__' in a Python class definition?",
+          "options": {
+            "1": "To automatically generate getter and setter functions.",
+            "2": "To restrict dynamic attribute creation and save memory by preventing the creation of '__dict__'.",
+            "3": "To declare thread-safe class variables.",
+            "4": "To register abstract methods dynamically."
+          },
+          "answer": "2"
+        },
+        "5": {
+          "question": "Which special method is invoked when an attribute lookup fails via the standard custom access pathways?",
+          "options": {
+            "1": "__getattribute__",
+            "2": "__getattr__",
+            "3": "__setattr__",
+            "4": "__locate__"
+          },
+          "answer": "2"
+        },
+        "6": {
+          "question": "In Python's Method Resolution Order (MRO), which algorithm is used to resolve multiple inheritance paths?",
+          "options": {
+            "1": "Depth-First Search (DFS)",
+            "2": "C3 Linearization",
+            "3": "Breadth-First Search (BFS)",
+            "4": "Dijkstra's Algorithm"
+          },
+          "answer": "2"
+        },
+        "7": {
+          "question": "What is the output of: print( type(type) )?",
+          "options": {
+            "1": "<class 'object'>",
+            "2": "<class 'type'>",
+            "3": "<class 'class'>",
+            "4": "Error"
+          },
+          "answer": "2"
+        },
+        "8": {
+          "question": "What does a 'classmethod' receive as its implicit first argument?",
+          "options": {
+            "1": "The instance of the class",
+            "2": "The class itself",
+            "3": "The parent module object",
+            "4": "No implicit argument is passed"
+          },
+          "answer": "2"
+        },
+        "9": {
+          "question": "What is the primary mechanism of Python's garbage collection for reclaiming memory immediately when an object is no longer accessible?",
+          "options": {
+            "1": "Mark and Sweep",
+            "2": "Reference Counting",
+            "3": "Generational Copying",
+            "4": "Stop the World"
+          },
+          "answer": "2"
+        },
+        "10": {
+          "question": "What is the default value of the second parameter in the dict.get(key, default) method if it is omitted?",
+          "options": {
+            "1": "False",
+            "2": "0",
+            "3": "None",
+            "4": "KeyError Exception"
+          },
+          "answer": "3"
+        },
+        "11": {
+          "question": "Which statement correctly describes a Python descriptor?",
+          "options": {
+            "1": "Any class that uses list comprehensions heavily.",
+            "2": "An object that implements at least one of __get__(), __set__(), or __delete__().",
+            "3": "A special decorator used only for multithreading.",
+            "4": "A built-in data type that replaces dictionaries."
+          },
+          "answer": "2"
+        },
+        "12": {
+          "question": "What is the output of print([] == []) and print([] is [])?",
+          "options": {
+            "1": "True, True",
+            "2": "True, False",
+            "3": "False, True",
+            "4": "False, False"
+          },
+          "answer": "2"
+        },
+        "13": {
+          "question": "How do you achieve an atomic operation to pass item payloads between threads safely?",
+          "options": {
+            "1": "Using standard dict structures",
+            "2": "Using the queue.Queue class",
+            "3": "Using global primitives",
+            "4": "Using a simple while loop"
+          },
+          "answer": "2"
+        },
+        "14": {
+          "question": "Which function from the sys module allows you to view the actual reference count of an object?",
+          "options": {
+            "1": "sys.refs()",
+            "2": "sys.getrefcount()",
+            "3": "sys.count()",
+            "4": "sys.sizeof()"
+          },
+          "answer": "2"
+        },
+        "15": {
+          "question": "What happens if a module is imported multiple times in different parts of a Python program?",
+          "options": {
+            "1": "It is re-executed completely every time it is imported.",
+            "2": "It is executed only once, and subsequent imports load it from sys.modules cache.",
+            "3": "Python raises an ImportError.",
+            "4": "A new namespace copy is generated each time."
+          },
+          "answer": "2"
+        },
+        "16": {
+          "question": "What is the runtime complexity of looking up a key inside a well-distributed Python dictionary on average?",
+          "options": {
+            "1": "O(N)",
+            "2": "O(1)",
+            "3": "O(log N)",
+            "4": "O(N log N)"
+          },
+          "answer": "2"
+        },
+        "17": {
+          "question": "Which dunder method converts an object into a formal, unambiguous string representation primarily meant for developers?",
+          "options": {
+            "1": "__str__",
+            "2": "__repr__",
+            "3": "__format__",
+            "4": "__print__"
+          },
+          "answer": "2"
+        },
+        "18": {
+          "question": "What does the 'functools.lru_cache' decorator do?",
+          "options": {
+            "1": "Clears memory automatically when a crash happens.",
+            "2": "Wraps a function with a Least Recently Used cache to memoize arguments and results.",
+            "3": "Limits execution time of asynchronous functions.",
+            "4": "Compiles the script down to native C speed."
+          },
+          "answer": "2"
+        },
+        "19": {
+          "question": "Which module allows memory-mapping a file content directly into process buffer regions?",
+          "options": {
+            "1": "os.path",
+            "2": "mmap",
+            "3": "io",
+            "4": "pickle"
+          },
+          "answer": "2"
+        },
+        "20": {
+          "question": "What is the purpose of the 'abc' module in Python?",
+          "options": {
+            "1": "To parse basic string alphabets.",
+            "2": "To define Abstract Base Classes.",
+            "3": "To perform automated testing validations.",
+            "4": "To convert python code to binary scripts."
+          },
+          "answer": "2"
+        },
+        "21": {
+          "question": "Which exception is raised when a generator's next() function finds no more elements?",
+          "options": {
+            "1": "GeneratorExit",
+            "2": "StopIteration",
+            "3": "IndexError",
+            "4": "EOFError"
+          },
+          "answer": "2"
+        },
+        "22": {
+          "question": "What is the purpose of the 'inspect' module?",
+          "options": {
+            "1": "To check file system file permission issues.",
+            "2": "To examine live objects, retrieve source code, or inspect frames.",
+            "3": "To check for syntax formatting errors automatically.",
+            "4": "To scan third party dependencies for security threats."
+          },
+          "answer": "2"
+        },
+        "23": {
+          "question": "What does the 'dis' module do?",
+          "options": {
+            "1": "Disables active system level warning signals.",
+            "2": "Disassembles Python bytecode into a human-readable format.",
+            "3": "Disconnects connected database socket channels.",
+            "4": "Checks missing package dependencies."
+          },
+          "answer": "2"
+        },
+        "24": {
+          "question": "What is the consequence of the Global Interpreter Lock (GIL) in Python?",
+          "options": {
+            "1": "It prevents multiple processes from executing simultaneously.",
+            "2": "It prevents multiple native threads from executing Python bytecodes at once in a single process.",
+            "3": "It stops the internet access from within python blocks.",
+            "4": "It encrypts all code memory allocations."
+          },
+          "answer": "2"
+        },
+        "25": {
+          "question": "Which of these expressions creates a generator expression instead of a tuple?",
+          "options": {
+            "1": "tuple(x for x in range(10))",
+            "2": "(x for x in range(10))",
+            "3": "[x for x in range(10)]",
+            "4": "{x for x in range(10)}"
+          },
+          "answer": "2"
+        },
+        "26": {
+          "question": "How do you extract a list of all positional arguments passed dynamically via *args inside a function wrapper?",
+          "options": {
+            "1": "args is already a list primitive.",
+            "2": "args is a tuple, which can be indexed directly.",
+            "3": "args is a dictionary mapping.",
+            "4": "args must be converted using the extract() function."
+          },
+          "answer": "2"
+        },
+        "27": {
+          "question": "Which magic method controls object creation BEFORE instantiation attributes are initialized via __init__?",
+          "options": {
+            "1": "__construct__",
+            "2": "__new__",
+            "3": "__prepare__",
+            "4": "__create__"
+          },
+          "answer": "2"
+        },
+        "28": {
+          "question": "What does the keyword argument 'exist_ok=True' do in os.makedirs()?",
+          "options": {
+            "1": "Deletes the directory if it already exists.",
+            "2": "Prevents raising an exception if the target directory already exists.",
+            "3": "Forces the creation of a hidden directory.",
+            "4": "Checks for cloud read-write authentication."
+          },
+          "answer": "2"
+        },
+        "29": {
+          "question": "What does the 'weakref' module allow developers to do?",
+          "options": {
+            "1": "Create temporary local variables that delete in 1 second.",
+            "2": "Create references to objects that do not prevent them from being garbage collected.",
+            "3": "Execute insecure external shell scripts.",
+            "4": "Sort unhashable custom type sets."
+          },
+          "answer": "2"
+        },
+        "30": {
+          "question": "What is the output of print(True + True)?",
+          "options": {
+            "1": "True",
+            "2": "2",
+            "3": "Error",
+            "4": "False"
+          },
+          "answer": "2"
+        },
+        "31": {
+          "question": "What built-in function returns a dictionary representing the current local symbol table?",
+          "options": {
+            "1": "globals()",
+            "2": "locals()",
+            "3": "vars()",
+            "4": "dir()"
+          },
+          "answer": "2"
+        },
+        "32": {
+          "question": "Which statement is true regarding the execution of an 'else' block attached to a 'for' loop?",
+          "options": {
+            "1": "It executes only if the loop is broken out of via the break keyword.",
+            "2": "It executes only if the loop completes all iterations normally without encountering a break statement.",
+            "3": "It executes at the beginning of each loop check loop path step.",
+            "4": "It executes only if the iterable provided is completely empty at runtime."
+          },
+          "answer": "2"
+        },
+        "33": {
+          "question": "What does the 'contextlib.contextmanager' decorator allow you to do?",
+          "options": {
+            "1": "Define global environment app configurations safely.",
+            "2": "Turn a generator function containing a single yield statement into a clean custom context manager.",
+            "3": "Track user login permissions automatically.",
+            "4": "Isolate threading variables from race conditions."
+          },
+          "answer": "2"
+        },
+        "34": {
+          "question": "Which module implements specialized container datatypes providing alternatives to Python's general purpose built-ins?",
+          "options": {
+            "1": "itertools",
+            "2": "collections",
+            "3": "functools",
+            "4": "types"
+          },
+          "answer": "2"
+        },
+        "35": {
+          "question": "What is the purpose of the 'pickle' module?",
+          "options": {
+            "1": "To compress big images files.",
+            "2": "To serialize and deserialize Python object structures into byte streams.",
+            "3": "To compile Python scripts into native C code.",
+            "4": "To run encrypted web server connections."
+          },
+          "answer": "2"
+        },
+        "36": {
+          "question": "What is the output of print(f'{10:04d}')?",
+          "options": {
+            "1": "1000",
+            "2": "0010",
+            "3": "10",
+            "4": "00010"
+          },
+          "answer": "2"
+        },
+        "37": {
+          "question": "Which module allows executing external operating system shell commands from within Python scripts safely?",
+          "options": {
+            "1": "os.path",
+            "2": "subprocess",
+            "3": "sys",
+            "4": "shutil"
+          },
+          "answer": "2"
+        },
+        "38": {
+          "question": "What pattern does Python's logging module use to handle logs via handlers, formatters, and filters?",
+          "options": {
+            "1": "Observer Pattern",
+            "2": "Chain of Responsibility Pattern",
+            "3": "Singleton Pattern",
+            "4": "Factory Pattern"
+          },
+          "answer": "2"
+        },
+        "39": {
+          "question": "What does the 'hasattr(obj, name)' function do?",
+          "options": {
+            "1": "Checks if an object is an instance of a specific string type.",
+            "2": "Checks if the object contains an attribute or method with the given string name.",
+            "3": "Deletes an attribute value from the designated object namespace.",
+            "4": "Creates an attribute with a default value on the object."
+          },
+          "answer": "2"
+        },
+        "40": {
+          "question": "Which method on a string swaps uppercase characters to lowercase and vice versa?",
+          "options": {
+            "1": "inverse()",
+            "2": "swapcase()",
+            "3": "flipcase()",
+            "4": "toggle()"
+          },
+          "answer": "2"
+        },
+        "41": {
+          "question": "What does the function 'id()' return?",
+          "options": {
+            "1": "The standard string name designation of the targeted object element.",
+            "2": "The unique integer identity (memory address in CPython) of the object.",
+            "3": "The data type classification indexing number.",
+            "4": "The total reference count number of that object."
+          },
+          "answer": "2"
+        },
+        "42": {
+          "question": "What is the purpose of the '__call__' method in a custom class definition?",
+          "options": {
+            "1": "To make class instances behave like a callable function.",
+            "2": "To delete instance variables dynamically.",
+            "3": "To connect classes to external web network endpoints.",
+            "4": "To convert class definitions into dict mappings."
+          },
+          "answer": "2"
+        },
+        "43": {
+          "question": "How do you create an abstract method inside an abstract class?",
+          "options": {
+            "1": "@abstract",
+            "2": "@abstractmethod",
+            "3": "@base",
+            "4": "@virtualmethod"
+          },
+          "answer": "2"
+        },
+        "44": {
+          "question": "What is the default encoding parameter used when calling the open() function in modern systems running Python 3?",
+          "options": {
+            "1": "ASCII",
+            "2": "Platform-dependent (often UTF-8, but varies on systems like Windows)",
+            "3": "UTF-16",
+            "4": "ISO-8859-1"
+          },
+          "answer": "2"
+        },
+        "45": {
+          "question": "What is the main limitation of using multiple threads for heavy CPU-bound tasks in standard CPython?",
+          "options": {
+            "1": "Threads consume too much network bandwidth.",
+            "2": "The Global Interpreter Lock (GIL) restricts execution to a single core.",
+            "3": "Threads cannot access shared memory values.",
+            "4": "Python does not support thread primitives natively."
+          },
+          "answer": "2"
+        },
+        "46": {
+          "question": "What is the value of x after executing: x = [1, 2]; x.extend([3, 4])?",
+          "options": {
+            "1": "[1, 2, [3, 4]]",
+            "2": "[1, 2, 3, 4]",
+            "3": "[3, 4]",
+            "4": "Error"
+          },
+          "answer": "2"
+        },
+        "47": {
+          "question": "Which module helps handle advanced cryptographic randomization tasks securely instead of the standard 'random' module?",
+          "options": {
+            "1": "hashlib",
+            "2": "secrets",
+            "3": "crypto",
+            "4": "ssl"
+          },
+          "answer": "2"
+        },
+        "48": {
+          "question": "What does the '__all__' variable define inside an '__init__.py' file of a package?",
+          "options": {
+            "1": "A list of global variables shared with all modules.",
+            "2": "A list of public modules or names exported when a user performs 'from package import *'.",
+            "3": "The dependencies required to install the system.",
+            "4": "The total number of classes allowed inside the bundle."
+          },
+          "answer": "2"
+        },
+        "49": {
+          "question": "What type of object does a generator function return when it is first executed (called)?",
+          "options": {
+            "1": "The evaluated single return data item.",
+            "2": "A generator iterator object.",
+            "3": "A tuple container holding all evaluated fields.",
+            "4": "A list structure mapping memory spaces."
+          },
+          "answer": "2"
+        },
+        "50": {
+          "question": "What is the output of print( 0.1 + 0.2 == 0.3 ) in Python?",
+          "options": {
+            "1": "True",
+            "2": "False due to floating-point representation precision limits",
+            "3": "Error",
+            "4": "None"
+          },
+          "answer": "2"
+        }
+      }
+    },
+    "EXPERT": {
+      "marking": {
+        "correct": "4",
+        "wrong": "1.5"
+      },
+      "questions": {
+        "1": {
+          "question": "What is the primary architectural purpose of the 'sys.settrace()' function in CPython?",
+          "options": {
+            "1": "To optimize loop compilation speeds dynamically.",
+            "2": "To register a global hardware-level execution monitoring profile or debugger callback.",
+            "3": "To encrypt internal bytecode streams before thread loading.",
+            "4": "To force garbage collection cycles across generational layers."
+          },
+          "answer": "2"
+        },
+        "2": {
+          "question": "Which internal standard library class allows constructing custom, programmatic bytecode objects natively from raw execution components?",
+          "options": {
+            "1": "types.CodeType",
+            "2": "inspect.Bytecode",
+            "3": "sys.ByteObject",
+            "4": "dis.Instruction"
+          },
+          "answer": "1"
+        },
+        "3": {
+          "question": "What happens if a metaclass defines a '__prepare__' method?",
+          "options": {
+            "1": "It compiles properties down to C extensions directly.",
+            "2": "It returns a dictionary or mapping object used to store the namespace of the class during its class body execution.",
+            "3": "It checks and pre-allocates thread pools for class instance methods.",
+            "4": "It intercepts object destruction pathways before reference evaluation."
+          },
+          "answer": "2"
+        },
+        "4": {
+          "question": "What is the runtime consequence of manipulating 'sys._getframe()' inside a production framework wrapper?",
+          "options": {
+            "1": "It forces immediate platform memory-mapping flushing cycles.",
+            "2": "It gives direct access to call stack frames, exposing current local/global states, but degrades performance and creates tight coupling with runtime implementations.",
+            "3": "It bypasses the CPython GIL permanently for that execution scope.",
+            "4": "It converts local scopes into read-only structural copies."
+          },
+          "answer": "2"
+        },
+        "5": {
+          "question": "How does Python handle the prioritization structural hierarchy when both '__getattribute__' and '__getattr__' are implemented on an object instance?",
+          "options": {
+            "1": "__getattr__ runs first, and if it fails, __getattribute__ evaluates.",
+            "2": "__getattribute__ is always invoked first; __getattr__ is only called if __getattribute__ raises an AttributeError explicitly or implicitly.",
+            "3": "Both run concurrently in distinct parallel threads via internal execution protocols.",
+            "4": "Python raises a runtime MetaclassCollision error during type compilation."
+          },
+          "answer": "2"
+        },
+        "6": {
+          "question": "Which module and hook allows programmatic interception of the entire module import compilation pathway before checking the standard disk search directories?",
+          "options": {
+            "1": "sys.meta_path using custom finder objects",
+            "2": "os.path using custom environmental links",
+            "3": "importlib.machinery using static structural filters",
+            "4": "builtins.__import__ using absolute binary hooks"
+          },
+          "answer": "1"
+        },
+        "7": {
+          "question": "What occurs behind the scenes under the hood when a 'with' block encounters a statement that raises an exception inside its context framework if '__exit__' returns True?",
+          "options": {
+            "1": "The exception is re-raised instantly up to the main application layer.",
+            "2": "The exception is swallowed (suppressed), and execution continues normally right after the block.",
+            "3": "The runtime falls back into a critical failure state, terminating immediately.",
+            "4": "The context object clones itself and re-runs the block code automatically."
+          },
+          "answer": "2"
+        },
+        "8": {
+          "question": "In asyncio architectures, what structural outcome is guaranteed when executing a task via 'asyncio.shield()'?",
+          "options": {
+            "1": "It isolates the thread block from any memory garbage cleanups.",
+            "2": "It protects the inner awaitable task from being cancelled even if the outer shielding task wrapper is cancelled.",
+            "3": "It prevents network socket timeouts completely from dropping active packages.",
+            "4": "It serializes variable access frames using atomic low-level mutexes."
+          },
+          "answer": "2"
+        },
+        "9": {
+          "question": "What is the specialized function of the 'gc.get_referrers(*objs)' utility within memory management forensics?",
+          "options": {
+            "1": "It calculates the exact memory allocations in bytes of a target tree object.",
+            "2": "It returns a list of objects that directly point to (hold references to) any of the provided target objects.",
+            "3": "It forces immediate cyclical reference isolation inside generation 0 memory pools.",
+            "4": "It checks for memory leaks inside external compiled C extensions."
+          },
+          "answer": "2"
+        },
+        "10": {
+          "question": "Which method must a custom object define to act as an unhashable sequence type that throws an error explicitly when placed into a set wrapper?",
+          "options": {
+            "1": "Setting '__hash__ = None' explicitly inside the class body.",
+            "2": "Defining '__setitem__ = False' at the initialization phase.",
+            "3": "Overriding '__eq__' to always return False or raise exceptions.",
+            "4": "Configuring structural inheritance configurations to inherit from abc.Sequence."
+          },
+          "answer": "1"
+        },
+        "11": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'ctypes.string_at' regarding ctypes library memory manipulation structures?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "To read memory contents from a raw C address pointer directly.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "12": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__set_name__' regarding advanced descriptor lifecycle evaluation rules?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "It allows a descriptor class to receive the owner class and attribute name during class creation.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "13": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__init_subclass__' regarding subclass evaluation hooks on class compilation?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "It is called on the parent class whenever a new subclass of it is created, without needing a full metaclass.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "14": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'builtins.__dict__' regarding builtins namespace injection mechanics?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "It allows injecting names globally across all isolated module evaluation frames at runtime.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "15": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'inspect.getgeneratorstate' regarding coroutine evaluation state tracking variables?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "It allows inspecting whether a generator or coroutine is currently suspended, running, or closed.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "16": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'ReferenceError' regarding weakref proxy target expiration behaviors?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "It is raised when attempting to access a weakref proxy object whose underlying referent has already been garbage collected.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "17": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'ast.NodeTransformer' regarding ast module tree rewriting compiler layers?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A subclass helper used to walk the abstract syntax tree and modify node tokens programmatically before compilation.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "18": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'sys.intern' regarding interned strings memory allocation rules?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "It forces Python to store exactly one copy of a string value in its internal lookup table to optimize identity comparisons.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "19": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'multiprocessing.shared_memory' regarding multiprocessing memory structures across forks?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "It provides a mechanism for allocating raw shared memory regions that can be accessed across separate process spaces.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "20": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'tb_next' regarding advanced traceback object stack inspections?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "An attribute on traceback objects that links directly to the next inner frame structure in the active exception stack chain.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "21": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'frame.f_locals' regarding frame execution evaluation locals tracking?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A dictionary mapping that exposes local variables inside a given execution stack frame layout.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "22": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__missing__' regarding custom dictionary class structural compilation?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A special method defined in dict subclasses that is called by dict.__getitem__ when a key is not found in the container.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "23": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'sys.modules' regarding module absolute compilation replacement paths?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A global dictionary caching loaded modules, which can be modified directly to mock or replace structural imports dynamically.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "24": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'anext()' regarding asynchronous generator structural lifecycles?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "The built-in function used to programmatically advance an asynchronous generator loop framework instance.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "25": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'struct.unpack' regarding low level binary structural unpacking layouts?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Converts raw binary byte arrays back into standard Python data types based on a strictly specified structural format string.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "26": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'threading.local' regarding thread local isolation memory spaces?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A utility class used to create storage data attributes that are completely isolated and unique to each executing native thread loop.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "27": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'operator.itemgetter' regarding operator module fast internal functional hooks?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Returns a highly optimized callable object that fetches targeted indices from its operand data structures via fast C pipelines.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "28": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'type.__new__(mcs, name, bases, attrs)' regarding metaclass initialization signature requirements?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "The standard foundational allocation footprint required to compile a type instance blueprint within a custom metaclass.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "29": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '-5 to 256' regarding custom integer evaluation value allocation ranges?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "The exact range of small integer objects that CPython pre-allocates and caches permanently in memory to accelerate execution speeds.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "30": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'sys.setprofile' regarding global execution profiling registration engines?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Registers a lower-overhead system-wide function hook to monitor only function entries, exits, and exceptions instead of line-by-line tracing.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "31": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'contextvars.ContextVar' regarding asynchronous context execution tracking flows?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Provides isolated concurrent storage pathways designed specifically to track variables safely across asynchronous task switching lines.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "32": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'signal.signal' regarding signal processing low level system hooks?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Allows intercepting low-level OS signals like SIGINT or SIGTERM and binding them directly to custom runtime callback functions.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "33": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'marshal module' regarding compiled binary serialization formats?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "An internal serialization module used primarily to read and write the binary compiled bytecode (.pyc files) of Python structures.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "34": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'abc.ABCMeta.register' regarding abstract evaluation virtual subclass registrations?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Allows a class to declare a completely unrelated class as its virtual subclass dynamically without modifying its biological MRO lines.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "35": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'type() with 3 arguments' regarding dynamic type construction execution functions?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Dynamically constructs and returns a brand-new class object configuration at runtime using names, base paths, and attribute mappings.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "36": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'property.setter' regarding dynamic property modification validation rules?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A specific descriptor decorator wrapper method that intercepts structural write operations on class instance properties.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "37": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'memoryview' regarding advanced memoryview slice allocation structures?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Exposes a C-level buffer protocol pathway allowing zero-copy slicing of binary data layouts without duplicate allocations.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "38": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'collections.abc.Mapping' regarding custom collection abstract verification mixins?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "An abstract base class that provides full implementation mixins for methods like keys() and values() if __getitem__ and __iter__ are provided.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "39": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'types.FunctionType' regarding dynamic function object construction pathways?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "An absolute constructor capable of initializing raw function blocks at runtime from code objects, globals, and closure scopes.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "40": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__reduce__' regarding pickle serialization reduction lifecycle hooks?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A special protocol method that returns a tuple layout specifying exactly how an object should be reconstructed during pickle operations.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "41": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__format__' regarding custom formatting implementation string pathways?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "The special protocol method called by the format() built-in or f-strings to evaluate custom layout representation modifiers.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "42": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__subclasscheck__' regarding abstract class verification validation phases?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A structural metaclass magic hook that overrides the behavior of the issubclass() built-in when checking target class hierarchies.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "43": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__bool__' regarding custom boolean conditional evaluation protocols?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "The absolute dunder pathway checked first to evaluate an object's truthiness, falling back to __len__ if not defined.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "44": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'asyncio.AbstractEventLoopPolicy' regarding asynchronous event loop low level overrides?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A blueprint class used to fully modify or customize how individual execution event loop managers are generated and tracked across threads.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "45": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'coroutine.throw' regarding coroutine evaluation stack throwing behaviors?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Raises a designated exception type directly inside a suspended coroutine frame scope to test structural resilience states.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "46": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__del__' regarding custom deletion cleanup pipeline protocols?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "The destructor protocol method invoked by CPython exactly when an object's reference count falls down to absolute zero.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "47": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 're.compile' regarding compiled structural regular expression engines?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Parses and transforms a pattern string layout into a reusable regular expression byte object optimization structure.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "48": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with '__dict__' regarding dynamic class instantiation dictionary layouts?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "The writable attribute space mapping layout that stores an object's structural dynamic attribute fields directly.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "49": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'threading.Lock' regarding thread safety absolute block structures?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "A primitive synchronization primitive that locks code execution blocks across concurrent native tracking systems via internal semaphores.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        },
+        "50": {
+          "question": "In extreme advanced core optimization development, what is the precise purpose or behavior associated with 'asyncio.gather' regarding asynchronous synchronization gathering wait hooks?",
+          "options": {
+            "1": "It triggers structural background memory encryption routines across network threads.",
+            "2": "Evaluates and aggregates a cluster of concurrent operations into a unified structural completion sequence map output array.",
+            "3": "It disables all underlying global exception handlers to speed up loop computations.",
+            "4": "It converts local runtime variable data spaces into static immutable C extensions permanently."
+          },
+          "answer": "2"
+        }
+      }
+    }
+  },
+  "General Knowledge": {
+    "Easy": {
+      "marking": {
+        "correct": "1",
+        "wrong": "0.25"
+      },
+      "questions": {
+        "1": { "question": "Which planet is known as the Red Planet?", "options": { "1": "Earth", "2": "Mars", "3": "Jupiter", "4": "Saturn" }, "answer": "2" },
+        "2": { "question": "What is the capital of India?", "options": { "1": "Mumbai", "2": "Kolkata", "3": "New Delhi", "4": "Chennai" }, "answer": "3" },
+        "3": { "question": "Which is the largest ocean on Earth?", "options": { "1": "Atlantic Ocean", "2": "Indian Ocean", "3": "Arctic Ocean", "4": "Pacific Ocean" }, "answer": "4" },
+        "4": { "question": "Who was the first Prime Minister of independent India?", "options": { "1": "Mahatma Gandhi", "2": "Jawaharlal Nehru", "3": "Dr. B.R. Ambedkar", "4": "Sardar Patel" }, "answer": "2" },
+        "5": { "question": "Which is the smallest state in India by area?", "options": { "1": "Goa", "2": "Sikkim", "3": "Tripura", "4": "Mizoram" }, "answer": "1" },
+        "6": { "question": "What is the national animal of India?", "options": { "1": "Lion", "2": "Elephant", "3": "Bengal Tiger", "4": "Leopard" }, "answer": "3" },
+        "7": { "question": "Which river is known as the 'Ganga of the South'?", "options": { "1": "Godavari", "2": "Krishna", "3": "Cauvery", "4": "Mahanadi" }, "answer": "1" },
+        "8": { "question": "Who is known as the Father of the Indian Constitution?", "options": { "1": "Dr. Rajendra Prasad", "2": "Dr. B.R. Ambedkar", "3": "Mahatma Gandhi", "4": "Jawaharlal Nehru" }, "answer": "2" },
+        "9": { "question": "Which is the highest mountain peak in the world?", "options": { "1": "K2", "2": "Kangchenjunga", "3": "Mount Everest", "4": "Lhotse" }, "answer": "3" },
+        "10": { "question": "Which gas do humans inhale for survival?", "options": { "1": "Nitrogen", "2": "Carbon Dioxide", "3": "Oxygen", "4": "Hydrogen" }, "answer": "3" },
+        "11": { "question": "In which city is the Taj Mahal located?", "options": { "1": "Delhi", "2": "Agra", "3": "Jaipur", "4": "Lucknow" }, "answer": "2" },
+        "12": { "question": "Which is the largest state in India by area?", "options": { "1": "Uttar Pradesh", "2": "Madhya Pradesh", "3": "Rajasthan", "4": "Maharashtra" }, "answer": "3" },
+        "13": { "question": "What is the currency of Japan?", "options": { "1": "Yuan", "2": "Yen", "3": "Won", "4": "Dollar" }, "answer": "2" },
+        "14": { "question": "Which instrument is used to measure atmospheric pressure?", "options": { "1": "Thermometer", "2": "Barometer", "3": "Hygrometer", "4": "Anemometer" }, "answer": "2" },
+        "15": { "question": "Who wrote the national anthem of India?", "options": { "1": "Bankim Chandra Chatterjee", "2": "Rabindranath Tagore", "3": "Sarojini Naidu", "4": "Premchand" }, "answer": "2" },
+        "16": { "question": "Which is the largest continent on Earth?", "options": { "1": "Africa", "2": "Asia", "3": "Europe", "4": "North America" }, "answer": "2" },
+        "17": { "question": "What is the chemical formula for water?", "options": { "1": "CO2", "2": "H2O", "3": "NaCl", "4": "O2" }, "answer": "2" },
+        "18": { "question": "Which planet is closest to the Sun?", "options": { "1": "Venus", "2": "Mercury", "3": "Earth", "4": "Mars" }, "answer": "2" },
+        "19": { "question": "Who was the first woman Prime Minister of India?", "options": { "1": "Pratibha Patil", "2": "Indira Gandhi", "3": "Sarojini Naidu", "4": "Sushma Swaraj" }, "answer": "2" },
+        "20": { "question": "Which festival is known as the festival of colors?", "options": { "1": "Diwali", "2": "Holi", "3": "Dussehra", "4": "Eid" }, "answer": "2" },
+        "21": { "question": "What is the brain of a computer called?", "options": { "1": "RAM", "2": "CPU", "3": "Hard Disk", "4": "Monitor" }, "answer": "2" },
+        "22": { "question": "Which structure separates India and Sri Lanka?", "options": { "1": "Palk Strait", "2": "Radcliffe Line", "3": "McMahon Line", "4": "Durand Line" }, "answer": "1" },
+        "23": { "question": "Which state is known as the 'Spices Garden of India'?", "options": { "1": "Karnataka", "2": "Kerala", "3": "Tamil Nadu", "4": "Andhra Pradesh" }, "answer": "2" },
+        "24": { "question": "How many days are there in a leap year?", "options": { "1": "365", "2": "366", "3": "364", "4": "368" }, "answer": "2" },
+        "25": { "question": "Which organ filters blood in the human body?", "options": { "1": "Heart", "2": "Lungs", "3": "Kidneys", "4": "Liver" }, "answer": "3" },
+        "26": { "question": "What is the capital of Madhya Pradesh?", "options": { "1": "Indore", "2": "Bhopal", "3": "Gwalior", "4": "Jabalpur" }, "answer": "2" },
+        "27": { "question": "Which is the longest river in the world?", "options": { "1": "Amazon", "2": "Nile", "3": "Yangtze", "4": "Mississippi" }, "answer": "2" },
+        "28": { "question": "Who discovered gravity?", "options": { "1": "Albert Einstein", "2": "Isaac Newton", "3": "Galileo Galilei", "4": "Marie Curie" }, "answer": "2" },
+        "29": { "question": "Which state has the longest coastline in India?", "options": { "1": "Maharashtra", "2": "Gujarat", "3": "Tamil Nadu", "4": "Andhra Pradesh" }, "answer": "2" },
+        "30": { "question": "What is the normal body temperature of a human?", "options": { "1": "31°C", "2": "37°C", "3": "42°C", "4": "25°C" }, "answer": "2" },
+        "31": { "question": "Which is the largest desert in the world?", "options": { "1": "Sahara", "2": "Gobi", "3": "Antarctic Desert", "4": "Thar" }, "answer": "3" },
+        "32": { "question": "Who is known as the Missile Man of India?", "options": { "1": "Dr. Vikram Sarabhai", "2": "Dr. A.P.J. Abdul Kalam", "3": "Homi Bhabha", "4": "Satish Dhawan" }, "answer": "2" },
+        "33": { "question": "Which vitamin is obtained from sunlight?", "options": { "1": "Vitamin A", "2": "Vitamin B", "3": "Vitamin C", "4": "Vitamin D" }, "answer": "4" },
+        "34": { "question": "What is the full form of ISRO?", "options": { "1": "Indian Space Research Organisation", "2": "International Space Research Office", "3": "Indian Science Research Order", "4": "International Satellite Research Org" }, "answer": "1" },
+        "35": { "question": "Which is the tallest animal on land?", "options": { "1": "Elephant", "2": "Giraffe", "3": "Ostrich", "4": "Camel" }, "answer": "2" },
+        "36": { "question": "How many states are there in India currently?", "options": { "1": "27", "2": "28", "3": "29", "4": "30" }, "answer": "2" },
+        "37": { "question": "Which color represents peace in the Indian flag?", "options": { "1": "Saffron", "2": "White", "3": "Green", "4": "Blue" }, "answer": "2" },
+        "38": { "question": "What is the capital of Australia?", "options": { "1": "Sydney", "2": "Melbourne", "3": "Canberra", "4": "Brisbane" }, "answer": "3" },
+        "39": { "question": "Which is the hardest natural substance on Earth?", "options": { "1": "Gold", "2": "Iron", "3": "Diamond", "4": "Graphite" }, "answer": "3" },
+        "40": { "question": "Who is the executive head of state in India according to law?", "options": { "1": "Prime Minister", "2": "President", "3": "Chief Justice", "4": "Governor" }, "answer": "2" },
+        "41": { "question": "Which country is the largest in the world by land area?", "options": { "1": "Canada", "2": "China", "3": "Russia", "4": "USA" }, "answer": "3" },
+        "42": { "question": "Which acid is present in lemons?", "options": { "1": "Acetic Acid", "2": "Citric Acid", "3": "Lactic Acid", "4": "Tartaric Acid" }, "answer": "2" },
+        "43": { "question": "What is the capital of the United States?", "options": { "1": "New York", "2": "Washington, D.C.", "3": "Los Angeles", "4": "Chicago" }, "answer": "2" },
+        "44": { "question": "How many players are there in a cricket team on the field?", "options": { "1": "9", "2": "10", "3": "11", "4": "12" }, "answer": "3" },
+        "45": { "question": "Which Indian city is called the Pink City?", "options": { "1": "Jodhpur", "2": "Udaipur", "3": "Jaipur", "4": "Bikaner" }, "answer": "3" },
+        "46": { "question": "What is the national fruit of India?", "options": { "1": "Apple", "2": "Mango", "3": "Banana", "4": "Orange" }, "answer": "2" },
+        "47": { "question": "Which planet has the most visible rings around it?", "options": { "1": "Jupiter", "2": "Saturn", "3": "Uranus", "4": "Neptune" }, "answer": "2" },
+        "48": { "question": "Who was the author of 'Discovery of India'?", "options": { "1": "Mahatma Gandhi", "2": "Jawaharlal Nehru", "3": "Subhas Chandra Bose", "4": "Bal Gangadhar Tilak" }, "answer": "2" },
+        "49": { "question": "Which primary metal is used to make electrical wires at home?", "options": { "1": "Iron", "2": "Copper", "3": "Silver", "4": "Zinc" }, "answer": "2" },
+        "50": { "question": "Which gas do plants absorb during photosynthesis?", "options": { "1": "Oxygen", "2": "Nitrogen", "3": "Carbon Dioxide", "4": "Helium" }, "answer": "3" }
+      }
+    },
+    "Medium": {
+      "marking": {
+        "correct": "2",
+        "wrong": "0.5"
+      },
+      "questions": {
+        "1": { "question": "The famous resolution of 'Poorna Swaraj' was passed in which session of the Indian National Congress?", "options": { "1": "Karachi 1931", "2": "Lahore 1929", "3": "Calcutta 1928", "4": "Haripura 1938" }, "answer": "2" },
+        "2": { "question": "Which fundamental right cannot be suspended even during a National Emergency?", "options": { "1": "Article 19", "2": "Article 21", "3": "Article 32", "4": "Article 14" }, "answer": "2" },
+        "3": { "question": "Where are the headquarters of the International Court of Justice located?", "options": { "1": "Geneva", "2": "New York", "3": "The Hague", "4": "Vienna" }, "answer": "3" },
+        "4": { "question": "The Champaran Satyagraha of 1917 was primary related to which crop farming?", "options": { "1": "Opium", "2": "Indigo", "3": "Cotton", "4": "Rice" }, "answer": "2" },
+        "5": { "question": "Which layer of the atmosphere contains the maximum concentration of Ozone?", "options": { "1": "Troposphere", "2": "Stratosphere", "3": "Mesosphere", "4": "Thermosphere" }, "answer": "2" },
+        "6": { "question": "Who is considered the custodian of the Indian Constitution?", "options": { "1": "The Parliament", "2": "The President", "3": "The Supreme Court", "4": "The Prime Minister" }, "answer": "3" },
+        "7": { "question": "Which Five Year Plan in India gave high priority to heavy industrialization?", "options": { "1": "First", "2": "Second", "3": "Third", "4": "Fourth" }, "answer": "2" },
+        "8": { "question": "The 'Fundamental Duties' were incorporated into the Indian Constitution on the recommendation of which committee?", "options": { "1": "Sarkaria", "2": "Swaran Singh", "3": "Balwant Rai", "4": "Verma" }, "answer": "2" },
+        "9": { "question": "Who was the first Governor-General of independent India?", "options": { "1": "Lord Mountbatten", "2": "C. Rajagopalachari", "3": "Dr. Rajendra Prasad", "4": "Lord Canning" }, "answer": "1" },
+        "10": { "question": "The term 'Bull and Bear' is explicitly associated with which sector?", "options": { "1": "Banking", "2": "Stock Market", "3": "Agriculture", "4": "E-Commerce" }, "answer": "2" },
+        "11": { "question": "Which type of unemployment is highly prevalent in the Indian agricultural sector?", "options": { "1": "Structural", "2": "Disguised", "3": "Frictional", "4": "Cyclical" }, "answer": "2" },
+        "12": { "question": "The classical dance form 'Kathakali' originated in which state?", "options": { "1": "Tamil Nadu", "2": "Kerala", "3": "Andhra Pradesh", "4": "Karnataka" }, "answer": "2" },
+        "13": { "question": "Which constitutional amendment is widely known as the 'Mini-Constitution' of India?", "options": { "1": "42nd Amendment", "2": "44th Amendment", "3": "24th Amendment", "4": "86th Amendment" }, "answer": "1" },
+        "14": { "question": "Deficiency of which vitamin cause the disease known as 'Rickets'?", "options": { "1": "Vitamin A", "2": "Vitamin B12", "3": "Vitamin C", "4": "Vitamin D" }, "answer": "4" },
+        "15": { "question": "The Rowlatt Act was passed in which year?", "options": { "1": "1915", "2": "1919", "3": "1921", "4": "1925" }, "answer": "2" },
+        "16": { "question": "Which is the highest civilian award in India?", "options": { "1": "Padma Vibhushan", "2": "Bharat Ratna", "3": "Param Vir Chakra", "4": "Sahitya Akademi" }, "answer": "2" },
+        "17": { "question": "The Biosphere Reserve 'Nokrek' is located in which Indian state?", "options": { "1": "Assam", "2": "Meghalaya", "3": "Arunachal Pradesh", "4": "Nagaland" }, "answer": "2" },
+        "18": { "question": "Who writes the economic survey report published annually in India?", "options": { "1": "RBI Governor", "2": "Chief Economic Advisor", "3": "Finance Minister", "4": "NITI Aayog CEO" }, "answer": "2" },
+        "19": { "question": "The Battle of Plassey was fought in which year?", "options": { "1": "1757", "2": "1764", "3": "1526", "4": "1556" }, "answer": "1" },
+        "20": { "question": "Which non-metal remains in a liquid state at room temperature?", "options": { "1": "Mercury", "2": "Bromine", "3": "Chlorine", "4": "Phosphorus" }, "answer": "2" },
+        "21": { "question": "Who regulates the monetary policy framework in India?", "options": { "1": "Ministry of Finance", "2": "Reserve Bank of India", "3": "SEBI", "4": "NITI Aayog" }, "answer": "2" },
+        "22": { "question": "The concept of 'Directive Principles of State Policy' was borrowed from which country?", "options": { "1": "USA", "2": "Ireland", "3": "USSR", "4": "UK" }, "answer": "2" },
+        "23": { "question": "Which river crosses the equator twice?", "options": { "1": "Amazon", "2": "Congo River", "3": "Nile", "4": "Niger" }, "answer": "2" },
+        "24": { "question": "Who among the following was the founder of the Brahmo Samaj?", "options": { "1": "Swami Vivekananda", "2": "Raja Ram Mohan Roy", "3": "Dayanand Saraswati", "4": "Ishwar Chandra Vidyasagar" }, "answer": "2" },
+        "25": { "question": "What is the primary objective of the PM-Kisan scheme?", "options": { "1": "Crop Insurance", "2": "Direct Income Support", "3": "Subsidized Fertilizers", "4": "Solar Pump Installation" }, "answer": "2" },
+        "26": { "question": "Which planet has a structural density less than water?", "options": { "1": "Uranus", "2": "Saturn", "3": "Neptune", "4": "Jupiter" }, "answer": "2" },
+        "27": { "question": "What is the tenure of a member of the Rajya Sabha?", "options": { "1": "5 Years", "2": "6 Years", "3": "4 Years", "4": "Permanent" }, "answer": "2" },
+        "28": { "question": "The 'Ryotwari System' of land revenue management was primarily introduced by whom?", "options": { "1": "Lord Cornwallis", "2": "Thomas Munro", "3": "Warren Hastings", "4": "Lord Wellesley" }, "answer": "2" },
+        "29": { "question": "Which state stands first in the production of saffron in India?", "options": { "1": "Himachal Pradesh", "2": "Jammu & Kashmir", "3": "Uttarakhand", "4": "Arunachal Pradesh" }, "answer": "2" },
+        "30": { "question": "The permanent headquarters of the SAARC organization are established where?", "options": { "1": "New Delhi", "2": "Kathmandu", "3": "Dhaka", "4": "Colombo" }, "answer": "2" },
+        "31": { "question": "Which gland is known as the master gland of the endocrine system?", "options": { "1": "Thyroid", "2": "Pituitary Gland", "3": "Adrenal", "4": "Pancreas" }, "answer": "2" },
+        "32": { "question": "Who chaired the first meeting of the Constituent Assembly as temporary President?", "options": { "1": "Dr. Rajendra Prasad", "2": "Dr. Sachchidanand Sinha", "3": "Dr. B.R. Ambedkar", "4": "Prent Nehru" }, "answer": "2" },
+        "33": { "question": "The famous global dynamic ecosystem 'Sundarbans' is which type of forest layout?", "options": { "1": "Tropical Evergreen", "2": "Mangrove Forest", "3": "Deciduous Forest", "4": "Coniferous Forest" }, "answer": "2" },
+        "34": { "question": "Who initiated the famous 'Bhoodan Movement' in India?", "options": { "1": "Mahatma Gandhi", "2": "Acharya Vinoba Bhave", "3": "Jayaprakash Narayan", "4": "Baba Amte" }, "answer": "2" },
+        "35": { "question": "The term 'Stagflation' refers to a unique market condition characterized by what?", "options": { "1": "High growth, high inflation", "2": "High inflation, stagnant growth & high unemployment", "3": "Low inflation, high growth", "4": "Deflation with rapid growth tracks" }, "answer": "2" },
+        "36": { "question": "The 'Niti Aayog' was formed replacing which historical entity?", "options": { "1": "Finance Commission", "2": "Planning Commission", "3": "National Development Council", "4": "National Sample Survey" }, "answer": "2" },
+        "37": { "question": "Which strait connects the Mediterranean Sea with the Atlantic Ocean?", "options": { "1": "Strait of Malacca", "2": "Strait of Gibraltar", "3": "Bering Strait", "4": "Palk Strait" }, "answer": "2" },
+        "38": { "question": "Who was the Mughal Emperor when the East India Company was established in London?", "options": { "1": "Jahangir", "2": "Akbar", "3": "Shah Jahan", "4": "Aurangzeb" }, "answer": "2" },
+        "39": { "question": "The power of judicial review in India is exercised by which authority?", "options": { "1": "Supreme Court only", "2": "Supreme Court and High Courts both", "3": "All District and Local Courts", "4": "Parliament Special Panel" }, "answer": "2" },
+        "40": { "question": "Which article of the Indian Constitution empowers the President to impose President's Rule in a state?", "options": { "1": "Article 352", "2": "Article 356", "3": "Article 360", "4": "Article 365" }, "answer": "2" },
+        "41": { "question": "The world-famous 'Kyoto Protocol' is an international treaty aimed at addressing what?", "options": { "1": "Biodiversity Loss", "2": "Greenhouse Gas Emissions & Climate Change", "3": "Ozone Depletion Control", "4": "Hazardous Wastes" }, "answer": "2" },
+        "42": { "question": "Which blood group is known as the 'Universal Donor'?", "options": { "1": "AB Positive", "2": "O Negative", "3": "A Positive", "4": "B Negative" }, "answer": "2" },
+        "43": { "question": "Who wrote the famous book 'Poverty and Un-British Rule in India'?", "options": { "1": "R.C. Dutt", "2": "Dadabhai Naoroji", "3": "G.K. Gokhale", "4": "M.G. Ranade" }, "answer": "2" },
+        "44": { "question": "The permanent boundary line 'McMahon Line' defines the border between which two countries?", "options": { "1": "India and Pakistan", "2": "India and China", "3": "India and Bangladesh", "4": "Pakistan and Afghanistan" }, "answer": "2" },
+        "45": { "question": "What is the main chemical constituent of Liquefied Petroleum Gas (LPG)?", "options": { "1": "Methane and Ethane", "2": "Propane and Butane", "3": "Hydrogen and Acetylene", "4": "Carbon Monoxide" }, "answer": "2" },
+        "46": { "question": "The legislative concept of 'Joint Sitting' of both Houses of Parliament is handled under which Article?", "options": { "1": "Article 110", "2": "Article 108", "3": "Article 112", "4": "Article 368" }, "answer": "2" },
+        "47": { "question": "Which pass connects Srinagar to Leh in Jammu and Kashmir?", "options": { "1": "Nathu La Pass", "2": "Zojila Pass", "3": "Shipki La Pass", "4": "Rohtang Pass" }, "answer": "2" },
+        "48": { "question": "Who was the political guru of Mahatma Gandhi?", "options": { "1": "Bal Gangadhar Tilak", "2": "Gopal Krishna Gokhale", "3": "Dadabhai Naoroji", "4": "Rabindranath Tagore" }, "answer": "2" },
+        "49": { "question": "Which indicator is used to calculate the Wholesale Price Index (WPI) in India?", "options": { "1": "Services tracking indexes only", "2": "Goods and commodities transactions values only", "3": "Combined values of Goods and Services", "4": "Rural labor consumption matrix only" }, "answer": "2" },
+        "50": { "question": "Where are the headquarters of the World Trade Organization (WTO) located?", "options": { "1": "New York, USA", "2": "Geneva, Switzerland", "3": "Paris, France", "4": "Brussels, Belgium" }, "answer": "2" }
+      }
+    },
+    "Hard": {
+      "marking": {
+        "correct": "3",
+        "wrong": "1"
+      },
+      "questions": {
+        "1": {
+          "question": "The famous Gandhara School of Art flourished primarily during the reign of which dynasty?",
+          "options": {
+            "1": "Guptas",
+            "2": "Kushanas",
+            "3": "Mauryas",
+            "4": "Satavahanas"
+          },
+          "answer": "2"
+        },
+        "2": {
+          "question": "Under which schedule of the Indian Constitution is the anti-defection law structured?",
+          "options": {
+            "1": "Seventh Schedule",
+            "2": "Eighth Schedule",
+            "3": "Ninth Schedule",
+            "4": "Tenth Schedule"
+          },
+          "answer": "4"
+        },
+        "3": {
+          "question": "The provisions of the Fifth Schedule of the Constitution of India are made to protect the interest of which group?",
+          "options": {
+            "1": "Scheduled Tribes",
+            "2": "Border States",
+            "3": "Linguistic Minorities",
+            "4": "Autonomous Districts"
+          },
+          "answer": "1"
+        },
+        "4": {
+          "question": "Who among the following was the author of the famous historical work 'Kitab-ul-Hind'?",
+          "options": {
+            "1": "Al-Biruni",
+            "2": "Ibn Battuta",
+            "3": "Amir Khusrau",
+            "4": "Ziauddin Barani"
+          },
+          "answer": "1"
+        },
+        "5": {
+          "question": "Which specific dynamic environmental convention addresses the transboundary movement of hazardous wastes and their disposal?",
+          "options": {
+            "1": "Basel Convention",
+            "2": "Rotterdam Convention",
+            "3": "Stockholm Convention",
+            "4": "Ramsar Convention"
+          },
+          "answer": "1"
+        },
+        "6": {
+          "question": "The 'Global Environment Outlook' report is published periodically by which international organization?",
+          "options": {
+            "1": "World Bank",
+            "2": "UNEP",
+            "3": "IUCN",
+            "4": "WWF"
+          },
+          "answer": "2"
+        },
+        "7": {
+          "question": "The Montreux Record is a register associated with which of the following international treaties?",
+          "options": {
+            "1": "Ramsar Convention",
+            "2": "Kyoto Protocol",
+            "3": "Convention on Biological Diversity",
+            "4": "CITES"
+          },
+          "answer": "1"
+        },
+        "8": {
+          "question": "Which core economic index captures structural data on price variations of services directly in India?",
+          "options": {
+            "1": "WPI",
+            "2": "CPI-Combined",
+            "3": "IIP",
+            "4": "GDP Deflator"
+          },
+          "answer": "2"
+        },
+        "9": {
+          "question": "In the context of ancient Indian history, the terms 'Vishtis' explicitly referred to what?",
+          "options": {
+            "1": "Forced Labor",
+            "2": "Religious Taxes",
+            "3": "Military Commanders",
+            "4": "Land Grants"
+          },
+          "answer": "1"
+        },
+        "10": {
+          "question": "The famous active volcanic system named 'Barren Island' is located in which region?",
+          "options": {
+            "1": "Andaman and Nicobar Islands",
+            "2": "Lakshadweep",
+            "3": "Gulf of Mannar",
+            "4": "Gulf of Khambhat"
+          },
+          "answer": "1"
+        },
+        "11": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Poompuhar' regarding ancient ports?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A prominent historic port city of the Chola kingdom located on the mouth of the Kaveri river.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "12": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Finance Commission' regarding constitutional bodies?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Established explicitly under Article 280 to handle the vertical and horizontal distribution of tax revenues.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "13": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Kuroshio Current' regarding ocean currents?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A warm, northward-flowing ocean current in the western sub-tropical North Pacific Ocean basin.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "14": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Lagrange Point L1' regarding space missions?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A gravitationally stable position in space where spacecraft like Aditya-L1 are positioned to monitor the solar corona continuously.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "15": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Estimates Committee' regarding parliamentary committees?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "The largest committee of Parliament consisting entirely of 30 members elected exclusively from the Lok Sabha.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "16": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Rajukas' regarding mauryan administration?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An active category of judicial and rural administrative officers appointed by Ashoka to ensure public welfare.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "17": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Lichens' regarding environmental indicators?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Highly sensitive composite organisms used extensively as biological indicators of sulfur dioxide air pollution.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "18": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Statutory Liquidity Ratio' regarding monetary policy terms?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "The reserve requirement that commercial banks are mandated to maintain in the form of cash, gold, or approved securities before lending.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "19": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Abdur Razzaq' regarding medieval dynamic travelogues?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A Persian scholar and ambassador who visited the Vijayanagara Empire during the reign of Deva Raya II.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "20": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'East Asia Summit' regarding international groupings?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An apex pan-Asian forum led by ASEAN comprising 18 regional member states focusing on strategic security fields.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "21": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Western Ghats' regarding biogeographical zones?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An absolute global biodiversity hotspot showcasing highly distinct endemic fauna like the Lion-tailed Macaque.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "22": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Keibul Lamjao National Park' regarding national parks?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "The world's only floating wildlife sanctuary, hosting the endangered brow-antlered deer (Sangai) on Phumdis.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "23": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Writ of Quo Warranto' regarding judicial terms?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Issued to prevent illegal usurpation of a public office by an individual without valid statutory alignment.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "24": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Santhal Rebellion' regarding historical revolts?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A major tribal insurrection against the British East India Company and zamindari systems led by Sidhu and Kanhu in 1855.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "25": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Laterite Soils' regarding soil science?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Soils formed in tropical areas with high rainfall and temperature, highly depleted of silica and lime via intense leaching.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "26": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Index of Eight Core Industries' regarding economic indices?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Calculated and released by the DPIIT, where Refinery Products holds the highest statistical weight configuration.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "27": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Aihole Inscription' regarding ancient inscriptions?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Authored by Ravikirti, detailing the military triumph of Chalukya king Pulakeshin II over Harshavardhana.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "28": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Most Favored Nation' regarding trade policy systems?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A core WTO principle requiring member states to accord equal and non-discriminatory trade treatment to all other partners.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "29": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Teesta River' regarding river systems?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A major tributary of the Brahmaputra that originates from the Tso Lhamo lake layout in Sikkim.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "30": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'PMLA 2002' regarding modern legislation?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A rigorous statutory act framed explicitly to combat money laundering operations and confiscate proceeds of crime.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "31": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Fair and Remunerative Price' regarding agricultural metrics?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "The minimum statutory price that sugarcane mills are legally obligated to pay to farmers across production lines.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "32": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Jarawas' regarding tribal geography?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An indigenous, highly isolated group of hunting-and-gathering tribal populations native to the South Andaman Islands.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "33": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Chaitya' regarding buddhist architecture?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A specialized Buddhist structural layout designed specifically as a prayer hall or congregational shrine hosting a stupa.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "34": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Inverted Duty Structure' regarding taxation architecture?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An anomaly where raw materials are taxed at higher rates than finished import products, hurting domestic manufacturing.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "35": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Dihang-Dibang Biosphere Reserve' regarding wildlife sanctuaries?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A high-altitude conservation zone located in Arunachal Pradesh protecting endemic Mishmi takin populations.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "36": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Adjournment Motion' regarding parliamentary motions?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Introduced to draw the attention of the House to a definite matter of urgent public importance, requiring 50 signatures.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "37": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Dinara' regarding gupta empire dynamics?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "The specific historical term used to denote gold coins issued in large numbers during the Gupta dynasty reign.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "38": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Karst Topography' regarding geomorphological terms?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A distinct landscape shaped by the dissolution of soluble rock layers like limestone or dolomite via weak carbonative acids.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "39": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'M3 Money Supply' regarding monetary terminology?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Broad money structural classification containing M1 currency notes plus time deposits with the banking network framework.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "40": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Vienna Convention' regarding international treaties?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An absolute framework treaty designed to protect the ozone layer, leading subsequently to the Montreal Protocol.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "41": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Trimurti Cave Temple' regarding sculptural heritage?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Located at Elephanta Caves, showcasing the monumental rock-cut sculpture of three-headed Shiva representation layouts.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "42": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Diwan-i-Arz' regarding delhi sultanate setups?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "The specialized department of military administration established by Balban to enhance central tracking control.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "43": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Kuznets Curve' regarding economic curves?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An inverted U-shaped economic pathway suggesting inequality rises initially with development before dropping off at higher income matrices.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "44": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Ashta Pradhan' regarding maratha administration?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "A council of eight ministers structured by Chhatrapati Shivaji, where the Peshwa handled prime ministerial execution controls.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "45": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Monazite Sands' regarding mineral resources?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An important economic source of thorium, found abundantly in the coastal beach sands of Kerala and Tamil Nadu.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "46": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Article 263' regarding constitutional pathways?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Empowers the President of India to establish an Inter-State Council to facilitate smooth coordination across states.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "47": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Varaha' regarding vijayanagara economics?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "The standard gold coin standard issued globally across trade networks by the rulers of the Vijayanagara empire.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "48": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Coriolis Force' regarding atmospheric mechanics?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "An apparent deflection force caused by Earth's rotation, bending winds to the right in the Northern Hemisphere.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "49": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Kunming-Montreal Framework' regarding global biodiversity targets?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Adopted at COP15 to halt and reverse biodiversity loss by 2030 via specific structural targets like '30x30' conservation.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        },
+        "50": {
+          "question": "In analytical general knowledge, what is the core significance or description associated with 'Advisory Jurisdiction' regarding judicial jurisdictions?",
+          "options": {
+            "1": "It tracks background atmospheric ionization rates across equatorial maritime regions.",
+            "2": "Exercised by the Supreme Court under Article 143 to deliver expert opinions on legal questions referred by the President.",
+            "3": "It disables secondary state statutory codes to accelerate international arbitration.",
+            "4": "It represents an obsolete historical tax structural paradigm canceled during the Mughal era."
+          },
+          "answer": "2"
+        }
+      }
+    },
+    "Expert": {
+      "marking": {
+        "correct": "4",
+        "wrong": "1.5"
+      },
+      "questions": {
+        "1": {
+          "question": "In which landmark case did the Supreme Court of India propound the doctrine of 'Basic Structure' of the Constitution?",
+          "options": {
+            "1": "Golaknath v. State of Punjab",
+            "2": "Kesavananda Bharati v. State of Kerala",
+            "3": "Minerva Mills v. Union of India",
+            "4": "Maneka Gandhi v. Union of India"
+          },
+          "answer": "2"
+        },
+        "2": {
+          "question": "Arrange the following administrative reforms/committees in correct chronological order: (I) Gorwala Report, (II) Paul H. Appleby Report, (III) First Administrative Reforms Commission, (IV) Sarkaria Commission.",
+          "options": {
+            "1": "I, II, III, IV",
+            "2": "II, I, III, IV",
+            "3": "I, III, II, IV",
+            "4": "III, I, II, IV"
+          },
+          "answer": "1"
+        },
+        "3": {
+          "question": "The famous Treaty of Srirangapatna was signed after which Anglo-Mysore War?",
+          "options": {
+            "1": "First Anglo-Mysore War",
+            "2": "Second Anglo-Mysore War",
+            "3": "Third Anglo-Mysore War",
+            "4": "Fourth Anglo-Mysore War"
+          },
+          "answer": "3"
+        },
+        "4": {
+          "question": "Which of the following bodies is NOT established directly under a specific article of the Indian Constitution?",
+          "options": {
+            "1": "National Commission for Scheduled Castes",
+            "2": "NITI Aayog",
+            "3": "Election Commission",
+            "4": "Union Public Service Commission"
+          },
+          "answer": "2"
+        },
+        "5": {
+          "question": "The famous Wavell Plan was presented in which year during the Indian freedom struggle?",
+          "options": {
+            "1": "1942",
+            "2": "1945",
+            "3": "1946",
+            "4": "1947"
+          },
+          "answer": "2"
+        },
+        "6": {
+          "question": "Under the Government of India Act 1919, the system of 'Diarchy' was introduced at which administrative layer?",
+          "options": {
+            "1": "The Central level only",
+            "2": "The Provincial level only",
+            "3": "Both Central and Provincial layers",
+            "4": "The Local Self-Government units"
+          },
+          "answer": "2"
+        },
+        "7": {
+          "question": "Which specific ancient text contains the detailed layout blueprints of statecraft, espionage networks, and fiscal economic architectures of the Mauryan era?",
+          "options": {
+            "1": "Mudrarakshasa",
+            "2": "Arthashastra",
+            "3": "Indica",
+            "4": "Rajatarangini"
+          },
+          "answer": "2"
+        },
+        "8": {
+          "question": "In the context of the Indian economy, what does the term 'Sterilization' by the RBI primarily mean?",
+          "options": {
+            "1": "Isolating banks with high non-performing assets",
+            "2": "Operations to neutralize the effects of foreign capital inflows on domestic money supply",
+            "3": "Canceling non-compliant offshore digital accounts",
+            "4": "Deep technical cleanup of obsolete physical currency denominations"
+          },
+          "answer": "2"
+        },
+        "9": {
+          "question": "The famous 'Santhal Hool' of 1855 was directly active in which geographical zone?",
+          "options": {
+            "1": "Damin-i-Koh",
+            "2": "Rampa Region",
+            "3": "Chotanagpur Plateau West",
+            "4": "Bundelkhand Highlands"
+          },
+          "answer": "1"
+        },
+        "10": {
+          "question": "Which landmark judgment explicitly established that the Preamble is an integral part of the Constitution of India?",
+          "options": {
+            "1": "Berubari Union case",
+            "2": "S.R. Bommai v. Union of India",
+            "3": "Shankari Prasad case",
+            "4": "Sajjan Singh case"
+          },
+          "answer": "2"
+        },
+        "11": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'L. Chandra Kumar case (1997)' regarding constitutional jurisprudence?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Declared that the power of judicial review vested in the High Courts and Supreme Court is an essential part of the basic structure.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "12": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Bhaga and Bali' regarding ancient fiscal definitions?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The two primary institutional forms of land revenue and mandatory tribute payments described in Vedic and Mauryan records.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "13": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'GATT Article XXIV' regarding fiscal economic treaties?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The specialized international clause governing the structural validation criteria required to set up regional free trade agreements.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "14": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Regulating Act 1773' regarding chronological timelines?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The foundational British statutory intervention that initialized centralized administrative control over the East India Company.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "15": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Central Vigilance Commission' regarding niche administrative entities?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Formed based on recommendations of the Santhanam Committee to combat institutional corruption, gaining statutory status in 2003.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "16": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Chittagong Armoury Raid' regarding revolutionary histories?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A daring armed resistance operation executed under the absolute leadership of Surya Sen (Masterda) in 1930.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "17": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Base Erosion and Profit Shifting' regarding macroeconomic tracking models?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Tax planning strategies used by multinational enterprises to exploit gaps in tax rules to artificially move profits to low-tax locations.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "18": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'I.R. Coelho case (2007)' regarding judicial precedent evolution?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Ruled that any law inserted into the Ninth Schedule after April 24, 1973, is open to judicial review if it violates fundamental rights.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "19": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Stockholm Declaration 1972' regarding environmental policy milestones?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The first international milestone framework aligning state responsibilities with preservation goals, establishing the UNEP framework.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "20": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Heliodorus Pillar' regarding ancient diplomatic exchanges?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A stone column erected at Vidisha by a Greek ambassador showcasing early structural devotion to the Bhagavata sect.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "21": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Charter Act of 1833' regarding charter act transitions?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Ended the commercial trading privileges of the East India Company completely, converting it into a purely administrative body.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "22": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'S.R. Bommai judgment guidelines' regarding federalism jurisprudence?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Strictly codified parameters preventing the arbitrary misuse of Article 356 and making the proclamation subject to judicial review.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "23": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Zat and Sawar' regarding medieval structural metrics?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The two numeric parameters inside the Mansabdari system determining an officer's personal rank and cavalry obligations respectively.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "24": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Liquidity Aggregates L1, L2, L3' regarding monetary liquidity indexes?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Calculated by adding specific financial tracking instruments like post office savings and financial institution certificates to M3.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "25": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'United Nations Convention on the Law of the Sea' regarding international legal structures?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Establishes structural boundaries defining Territorial Sea (12 nautical miles) and Exclusive Economic Zones (200 nautical miles).",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "26": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Sarda Act 1929' regarding social reform timelines?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A historic legislative intervention that strictly fixed the minimum legal marriageable age configurations for girls and boys.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "27": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Dahsala System' regarding medieval agrarian systems?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A highly systematic land revenue method introduced by Raja Todar Mal under Akbar, based on average crop yields over ten years.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "28": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Green Climate Fund' regarding climate finance networks?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A global platform structured within the UNFCCC framework to redistribute capital from developed states down to vulnerable nations.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "29": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Indian Civil Services Act 1861' regarding administrative evolution codes?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Codified the institutional framework of civil services in India, reserving specific high administrative posts for covenant officers.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "30": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Article 31B' regarding parliamentary sovereign limits?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Validates and shields legislation placed inside the Ninth Schedule from structural vulnerability to fundamental rights violations.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "31": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Syadvada' regarding ancient philosophy layers?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The highly specific epistemological doctrine of qualified skepticism or 'perhaps' native to Jain philosophical systems.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "32": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Capital Account Convertibility' regarding economic balance matrices?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The structural freedom to convert local financial assets into foreign assets and vice-versa at market-determined exchange rates.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "33": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'August Offer 1940' regarding historical declarations?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A strategic executive statement by Lord Linlithgow promising Dominion Status and a post-war constituent assembly to secure wartime support.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "34": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Eco-Sensitive Zones' regarding environmental boundary dynamics?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Regulated transition buffers surrounding National Parks and Sanctuaries notified under the Environment (Protection) Act 1986.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "35": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Nivartana' regarding ancient agrarian units?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A specialized unit of land measurement frequently referenced in Satavahana and Gupta era inscriptions regarding land donations.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "36": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Appellate Body of WTO' regarding trade dispute platforms?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A standing panel of seven experts that hears appeals from reports issued by panels in disputes brought by WTO members.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "37": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Defence of India Act 1915' regarding colonial legal structures?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "An emergency criminal statute enacted to compress nationalist and revolutionary activities during World War I.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "38": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Ways and Means Advances' regarding structural fiscal tools?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A temporary credit facility provided by the RBI to central and state governments to bridge structural mismatches in cash flows.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "39": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'London Convention 1972' regarding maritime global frameworks?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "One of the first international global structures designed to control and prevent marine pollution from deliberate dumping activities.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "40": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Public Interest Litigation scope' regarding judicial procedural limits?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Relaxed the traditional rule of 'Locus Standi', empowering public-spirited citizens to move courts on behalf of marginalized groups.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "41": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Prompt Corrective Action framework' regarding modern banking structures?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A strict supervisory framework under which the RBI intervenes directly when a commercial bank's financial health parameters drop below thresholds.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "42": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Karkhanas' regarding medieval industrial zones?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Royal manufacturing workshops managed directly by the state or nobles under the Delhi Sultanate and Mughal Empire architectures.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "43": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Cabinet Mission Plan 1946' regarding constitutional history vectors?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Rejected the explicit partition demand for a separate Pakistan, proposing a weak federal union structure with three distinct provincial groups.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "44": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Radcliffe Line allocation rules' regarding international border protocols?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The complex border demarcation process executed across Punjab and Bengal provinces based on demographic mappings and physical factors.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "45": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Karshapana' regarding ancient currency components?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "A class of punch-marked silver or copper coins widely circulating across trade hubs in ancient India during the Mahajanapada era.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "46": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Chotanagpur Tenancy Act 1908' regarding tribal agrarian protective acts?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Enacted following the Birsa Munda movement, strictly banning the non-tribal transfer or sale of indigenous ancestral lands.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "47": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Flexible Inflation Targeting' regarding monetary system targets?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The statutory mandate assigning the RBI to maintain consumer price inflation at 4% with a tolerance band of +/- 2%.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "48": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Wardha Scheme of Basic Education' regarding historical educational schemes?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Propounded by Mahatma Gandhi in 1937, emphasizing learning through productive manual work and native mother tongues.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "49": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Water Act 1974' regarding environmental pollution laws?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "The first comprehensive statutory legislation in India to establish specialized pollution control boards to monitor water safety.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        },
+        "50": {
+          "question": "In advanced strategic competitive evaluations, what is the precise legislative or historical fact associated with 'Sabha and Samiti' regarding ancient administrative systems?",
+          "options": {
+            "1": "It outlines technical parameter metrics for tracking high-altitude ionospheric disturbances.",
+            "2": "Democratic folk assemblies mentioned in Rigvedic contexts that actively participated in corporate state governance and tribal discussions.",
+            "3": "It isolates secondary corporate balance sheets to bypass national compliance reviews.",
+            "4": "It represents an obsolete revenue tracking clause cancelled by imperial decree during the late colonial era."
+          },
+          "answer": "2"
+        }
+      }
+    }
+  }
+}
+  
+    
